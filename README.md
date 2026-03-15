@@ -3,6 +3,8 @@
 > A deep learning web application that classifies brain MRI scans to detect the presence of tumors in real-time. Upload an MRI image and get an instant prediction.
 
 🌐 **Live Demo:** https://shivanalli-brain-tumor-classification.hf.space
+http://127.0.0.1:5000
+
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange?logo=tensorflow)
